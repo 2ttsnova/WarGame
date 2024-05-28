@@ -20,5 +20,3 @@
  18/01/2024, 11:15:28 : SELECT nome, id FROM tbl_user WHERE login = 'Jason' AND senha = '12345' 
  29/01/2024, 10:17:53 : SELECT nome, id FROM tbl_user WHERE login = 'joaozinho' AND senha = '12345' 
  29/01/2024, 14:48:23 : SELECT nome, id FROM tbl_user WHERE login = 'felipe' AND senha = '12345' 
- 30/01/2024, 09:18:15 : SELECT nome, id FROM tbl_user WHERE login = 'Teste gustavo' AND senha = '12345' 
- 08/02/2024, 15:50:50 : SELECT nome, id FROM tbl_user WHERE login = 'gabriel teste' AND senha = '12345' 

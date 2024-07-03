@@ -94,8 +94,8 @@ function generateSessionID(userID) {
 }
 
 app.get('/login/:login/:senha', (req, res) => {
-    const login = req.params.login;
-    const senha = req.params.senha;
+    // const login = req.params.login;
+    // const senha = req.params.senha;
 
     const query = `SELECT nome, id FROM tbl_user WHERE login = '${login}' AND senha = '${senha}'`;
 
